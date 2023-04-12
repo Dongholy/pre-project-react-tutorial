@@ -12,3 +12,4 @@ Create React App을 활용해 프론트엔드 개발에 유용한 프레임워�
 Redux
 Styled-Component
 ESLint, Prettier
+랄라라라라라라라라ㅏㄹ
